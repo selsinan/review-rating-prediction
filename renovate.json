@@ -1,0 +1,17 @@
+ {
+   "extends": ["config:base"],
+   "semanticCommits": true,
+   "packageRules": [
+     {
+       "matchPackageNames": ["review-rating-api"],
+       "enabled": true,
+       "automergeType": "branch",
+       "automerge": false
+     }
+   ],
+   "schedule": ["before 5am on the first day of the month"],
+   "ignoreDeps": [
+     "review-rating-api"
+   ],
+   "labels": ["dependencies", "renovate"]
+ }
