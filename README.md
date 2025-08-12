@@ -229,14 +229,3 @@ make test-api        # API functionality tests
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Support
-
-- 📧 **Email**: [your-email@domain.com]
-- 📖 **Documentation**: [Link to detailed docs]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-
----
-
-**Built with ❤️ for better children's book discovery**
